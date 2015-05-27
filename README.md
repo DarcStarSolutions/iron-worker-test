@@ -1,5 +1,5 @@
 # iron-worker-test
-Test program for Iron Worker from iron.io
+Test program for Iron Worker from http://iron.io
 
 This is a gradle application using springboot to create an IronWorker Test Application
 
